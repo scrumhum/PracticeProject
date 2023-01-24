@@ -20,6 +20,12 @@ github practice
 
 10. Now, as a TEAM, huddle around the original project creator's screen, Update or Refresh their GitHub clone via the Git tab at the bottom of the IntelliJ. Have the person check out their local, or from the remote, main branch.
 
+
+Nunmeberr2123wgu
+Pack light, but carry a big stick
+
 11.Monkey and bananas12121
+"I think I said add something like amazing quotes, I don't know put in whatever you want." - Trevor Hartman 2023
+
 
 hello

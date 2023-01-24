@@ -25,3 +25,7 @@ Nunmeberr2123wgu
 Pack light, but carry a big stick
 
 11.Monkey and bananas12121
+"I think I said add something like amazing quotes, I don't know put in whatever you want." - Trevor Hartman 2023
+
+
+hello
